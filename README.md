@@ -11,9 +11,9 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 ## Following this code I have:
-. Gathered the data
-. Cleaned the data 
-. Split the data into train and test sets
-. Applied several alogorithms to predict the sales
+- Gathered the data
+- Cleaned the data 
+- Split the data into train and test sets
+- Applied several alogorithms to predict the sales
   
-After that, I submitted the best result which granted me 0.7799 based on accuracy.
+After that, I submitted the best result which granted me a score of 0.7799 based on accuracy.
